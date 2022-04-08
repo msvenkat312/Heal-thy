@@ -5,8 +5,8 @@
 }
 .Sidebar{
 height: 100%;
-width: 300px;
-background-color: #2f4050;
+width: 200px;
+background-color: #FF895D
 }
 .SidebarList{
   height: auto;
@@ -26,10 +26,12 @@ background-color: #2f4050;
 }
 .SidebarRow:hover{
   cursor: pointer;
-  background-color: #293846;
+  background-color: #FF895D;
+  color: white
 }
 #SidebarRowActive{
-  background-color: #293846;
+  background-color: #FF895D;
+  color:white;
 }
 #SidebarIcon{
   flex:30%;
