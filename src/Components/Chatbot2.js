@@ -23,7 +23,7 @@ export class Chatbot extends Component {
   render() {
     return (
       <div>
-        <h2>Chatbot</h2>
+        <h2>Click on purple icon to interact with the chatbot</h2>
       </div>
     );
   }

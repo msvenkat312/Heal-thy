@@ -13,7 +13,6 @@
 height: 100%;
 width: 200px;
 background-color: #FF895D;
-display: inline-block;
 }
 .SidebarList{
   height: auto;
@@ -53,8 +52,8 @@ display: inline-block;
 .ChatBackground {
   text-align: center;
   width: 100%;
-
-  display: inline-block;
-  background-color: #002147;
-  /* min-height: 100vh; */
+  display: flex;
+  background-color: #dddd;
+  justify-content: center;
+  align-items: center;
 }
